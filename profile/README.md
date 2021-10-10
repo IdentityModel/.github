@@ -4,9 +4,9 @@ IdentityModel is a collection of OpenID Connect & OAuth 2 related helpers and cl
 
 The main repos are
 
-* [IdentityModel](https://github.com/IdentityModel/IdentityModel) - core library containing primitives and basic interaction with protocol endpoints
+* [IdentityModel](https://github.com/IdentityModel/IdentityModel) - core library containing primitives and basic interactions with protocol endpoints
 * [IdentityModel.AspNetCore](https://github.com/IdentityModel/IdentityModel.AspNetCore) - token management library for ASP.NET Core
-* [IdentityModel.AspNetCore.OAuth2Introspection](https://github.com/IdentityModel/IdentityModel.AspNetCore.OAuth2Introspection) - Implementation of an OAuth 2 introspection client for ASP.NET Core
+* [IdentityModel.AspNetCore.OAuth2Introspection](https://github.com/IdentityModel/IdentityModel.AspNetCore.OAuth2Introspection) - Implementation of an OAuth 2 token introspection client for ASP.NET Core
 * [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - RFC8252 compliant client library for native clients
 
 IdentityModel is mainted by [Duende Software](https://duendesoftware.com).
