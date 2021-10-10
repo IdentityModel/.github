@@ -9,6 +9,6 @@ The main repos are
 * [IdentityModel.AspNetCore.OAuth2Introspection](https://github.com/IdentityModel/IdentityModel.AspNetCore.OAuth2Introspection) - Implementation of an OAuth 2 introspection client for ASP.NET Core
 * [IdentityModel.OidcClient](https://github.com/IdentityModel/IdentityModel.OidcClient) - RFC8252 compliant client library for native clients
 
-IdentityModel is mainted by [Duende](https://duendesoftware.com).
+IdentityModel is mainted by [Duende Software](https://duendesoftware.com).
 
 See [here](https://identitymodel.readthedocs.io/en/latest/) for documentation.
